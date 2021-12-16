@@ -2,9 +2,9 @@
 
 <h3> Skills: </h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height = '30'/>
-  <img alt="Selenium" src="https://img.shields.io/badge/selenium-%23ED8B00.svg?style=for-the-badge&logo=selenium&logoColor=white" height = '30'/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height = '30'/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height = '50'/>
+  <img alt="Selenium" src="https://img.shields.io/badge/selenium-%23ED8B00.svg?style=for-the-badge&logo=selenium&logoColor=white" height = '50'/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height = '50'/>
 </p> 
 
 <h3> Tools: </h3>
